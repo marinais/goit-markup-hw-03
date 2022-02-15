@@ -332,14 +332,11 @@ img {
   background-color: var(--primary-white-color);
 }
 
-.container.menu {
-  padding-bottom: 34px;
-}
-
 .menu-list {
   display: flex;
   justify-content: center;
   padding-bottom: 16px;
+  margin-bottom: 34px;
 }
 
 .button.secondary {
